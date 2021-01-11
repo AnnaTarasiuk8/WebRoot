@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif !important;
+  background-color: #eae5e5;
+  color: #4d4d4d;
+}
+.name {
+  font-size: 50px;
+  font-weight: 900;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.photo {
+  height: 350px;
+  width: 250px;
+}
+.navigation {
+  list-style: none;
+  padding-inline-start: 0;
+  margin-top: 0;
+}
+
+.navigation-item {
+  padding: 10px;
+  padding-top: 0;
+}
+.navigation-item a {
+  color: #8d8b8b;
+  font-weight: bold;
+}
+.navigation-item a:hover {
+  color: #75d1d5;
+}
