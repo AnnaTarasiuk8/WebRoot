@@ -30,3 +30,6 @@ body {
 .navigation-item a:hover {
   color: #75d1d5;
 }
+.stared {
+  color: orange;
+}
